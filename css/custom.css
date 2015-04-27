@@ -1,0 +1,23 @@
+h1 small {
+    font-size: 30%;
+    color: #33487d;
+    vertical-align: super;
+    font-weight: bold;
+    position: relative;
+    top: -0.5em;
+}
+
+/* Because not everyone has javascript enabled */
+.banner-default {
+    position: relative;
+    z-index: 0;
+    background: url(/images/banner.jpg) repeat scroll 0 0 transparent;
+}
+
+.translucent-bg.blue:after {
+    background-color: rgba(51, 72, 125, 0.7);
+}
+
+.background-mountains {
+    background-image: url(/images/bg-image-1.jpg);
+}

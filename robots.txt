@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /bootstrap
+Disallow: /fonts
+Disallow: /css
+Disallow: /js

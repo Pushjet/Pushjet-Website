@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   viewBox="0 0 220.77395 236.42183"
+   height="66.723495mm"
+   width="62.307316mm"
+   id="svg4136">
+  <defs
+     id="defs4138">
+    <linearGradient
+       id="linearGradient4169">
+      <stop
+         id="stop4171"
+         offset="0"
+         style="stop-color:#4764ad;stop-opacity:1" />
+      <stop
+         id="stop4173"
+         offset="1"
+         style="stop-color:#33487d;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-202.46011,-226.82649)"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       y2="227.81349"
+       x2="512.83575"
+       y1="537.93036"
+       x1="201.95505"
+       id="linearGradient4179"
+       xlink:href="#linearGradient4169" />
+    <linearGradient
+       gradientTransform="translate(-202.46011,-226.82649)"
+       gradientUnits="userSpaceOnUse"
+       y2="227.81349"
+       x2="512.83575"
+       y1="537.93036"
+       x1="201.95505"
+       id="linearGradient4195"
+       xlink:href="#linearGradient4169" />
+  </defs>
+  <metadata
+     id="metadata4145">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="jet"
+     style="opacity:1;fill:#f9f9f9;fill-opacity:1"
+     d="M 3.09083,150.8738 9.854,139.945 42.183,134.78389 0,111.79284 9.47979,89.782896 c 43.83708,-8.12154 93.89639,-18.49808 134.50732,-27.7571 16.36446,-15.73026 32.87051,-31.31227 49.33478,-46.93785 0,0 25.15481,-16.4623202 27.2298,-14.99543019 2.07498,1.46689999 -11.0614,29.05042019 -11.0614,29.05042019 -13.08637,18.54921 -26.22028,37.06098 -39.60734,55.39377 l -9.53948,138.694624 -19.71822,10.80156 -28.55418,-38.59209 -0.61156,32.73262 -9.95697,8.24841 C 59.70097,182.51199 59.38251,182.34977 3.09083,150.8738 Z" />
+</svg>
